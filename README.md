@@ -41,7 +41,6 @@ A Tamagotchi-style game developed in Unity.
 **Technologies:** Unity, C#
 
 * [View Project](./projects/tamagotchi)
-* [View Demo](#)
 
 
 ## Skills
