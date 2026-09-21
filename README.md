@@ -49,10 +49,7 @@ A Tamagotchi-style game developed in Unity.
 
 **Game Development:** Unity
 
-**Tools:** Git, GitHub
+**Tools:** Git, GitHub, Google Flow, Visual Studios, Unity Hub
 
-**Other:** AI-assisted content creation, video editing, social media
-
-## Contact
 
 More projects and information will be added to this portfolio over time.
